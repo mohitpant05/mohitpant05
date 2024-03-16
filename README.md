@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **poxex@outlook.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1JpzliMqClRP57LlfszSQSQUKm2lwA3E1/view?usp=sharing" > click here ! </a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1gXx8jEOHoeZN0UkYZSzuzztaQk93hBAs/view?usp=sharing" > click here ! </a>
 
 - ⚡ Fun fact **Chef is alongside 700+ coding languages**
 
