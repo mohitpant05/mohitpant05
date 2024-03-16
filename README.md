@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohit Pant</h1>
 <h3 align="center">A self driven passionate learner from India</h3>
-
+<img  align ="right" src="https://process.filestackapi.com/cache=expiry:max/resize=width:1050/efbSR18hT5uRKuo0zoMA">
 - 🌱 I’m currently learning **Express, Django, Node**
 
 - 💬 Ask me about **C, C++, Java, Python, JavaScript**
