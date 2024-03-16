@@ -3,7 +3,9 @@
 <img  align ="right" src="https://process.filestackapi.com/cache=expiry:max/resize=width:1050/efbSR18hT5uRKuo0zoMA" height="400px">
 - 🌱 I’m currently learning **Express, Django, Node**
 
+
 - 💬 Ask me about **C, C++, Java, Python, JavaScript, HTML, CSS, React**
+
 
 - 📫 How to reach me **poxex@outlook.com**
 
@@ -11,7 +13,6 @@
 
 - ⚡ Fun fact **Chef is alongside 700+ coding languages**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
